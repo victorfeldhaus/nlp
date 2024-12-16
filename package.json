@@ -1,0 +1,21 @@
+{
+  "name": "nlp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "i": "^0.3.7",
+    "node-nlp": "^5.0.0-alpha.3",
+    "npm": "^10.9.2"
+  }
+}
